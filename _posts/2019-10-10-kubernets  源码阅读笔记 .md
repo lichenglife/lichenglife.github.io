@@ -1,4 +1,16 @@
-
+```
+layout:     post
+title:      kubernets  源码阅读笔记
+subtitle:   kubernets  源码阅读笔记
+date:       2020-10-09
+author:     li
+header-img: img/kubernetes.jpg
+catalog: true
+tags:
+    - kubernetes
+    - 源码
+ 
+```
 
 
 
