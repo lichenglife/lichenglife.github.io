@@ -4,13 +4,11 @@ title:      kubernets  源码阅读笔记
 subtitle:   kubernets  源码阅读笔记
 date:       2020-10-09
 author:     li
-header-img: img/kubernetes.jpg
+header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
     - kubernetes
 --- 
-
-
 
 
 # kubernets  源码阅读笔记
