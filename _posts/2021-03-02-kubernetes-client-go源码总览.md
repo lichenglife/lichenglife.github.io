@@ -16,7 +16,7 @@ tags:
 
 
 
-![](img/client-go.png)
+![](../img/client-go.png)
 
 ![](C:\Users\Lenovo\Documents\GitHub\lichenglife.github.io\img\client-go.png)
 
