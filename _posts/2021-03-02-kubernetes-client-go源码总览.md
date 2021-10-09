@@ -17,9 +17,7 @@ tags:
 
 ![]( https://lichenglife.github.io/img/client-go.png)
 
-![]( img/client-go.png)
 
-![](C:\Users\Lenovo\Documents\GitHub\lichenglife.github.io\img\client-go.png)
 
 根据上图总览，可以将client-go分为以下模块，后面逐一展开解析各个模块的详细代码；
 
