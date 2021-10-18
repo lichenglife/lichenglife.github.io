@@ -1,5 +1,3 @@
-# kubenetes  扩展开发
-
 ---
 layout:     post
 title:     kubernets扩展开发
@@ -10,7 +8,6 @@ header-img: img/kubernetes.png
 catalog: true
 tags:
     - 源码
-    - client-go
     - kubernetes
 
 ---
@@ -21,7 +18,7 @@ kuernetes 系统从设计上支持很多层面的扩展开发，开发者在使�
 
 下面这张图是kubernetes 官网Extension Points
 
-![](C:\Users\Lenovo\Documents\GitHub\lichenglife.github.io\img\extension-points.png)
+![](https://lichenglife.github.io/img/extension-points.png)
 
 ​                                     https://kubernetes.io/docs/concepts/extend-kubernetes/
 
