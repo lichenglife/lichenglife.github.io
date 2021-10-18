@@ -1,6 +1,19 @@
 # kubenetes  扩展开发
 
+---
+layout:     post
+title:     kubernets扩展开发
+subtitle:  kubernets扩展开发
+date:       2021-09-01
+author:     LI
+header-img: img/kubernetes.png
+catalog: true
+tags:
+    - 源码
+    - client-go
+    - kubernetes
 
+---
 
 ## 一 、kubernetes  扩展开发点
 
